@@ -1,0 +1,81 @@
+.nepal1 {  
+    background-color: aqua;
+   
+    height: 50px;
+    margin: 50px;
+    padding: 30px;
+    color: black;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 50px;
+
+}
+.randwa{ background-image: url(maldiv.jpg)  ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.nepal2{
+    border: 1px solid black;
+    width: 700px;
+    border-radius: 30px;
+}
+
+.nepal3{
+    word-spacing: 100px;
+}
+
+.rara{  background-image: url(sky.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-size: 80px;
+    
+}
+    .money{
+
+        border: 20px solid black;
+        border-radius: 20px;
+       
+        margin: 200px;
+        padding: 40px;
+        font-family: Arial, Helvetica, sans-serif;
+        background-image: url(new.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    input {
+        height: 50px;
+        box-sizing: border-box;
+        border-bottom: 2px solid green;
+        border-radius: 10px;
+    }
+    /*unvisited link*/
+    a:link{color: green;
+        border: 1px solid black;
+        font-family: Arial, Helvetica, sans-serif;
+        border-radius: 10px;
+
+
+    }
+    /* visited link*/
+    a:visited{
+        color: lightblue;
+        background-color: white;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    /* mouse hover link*/
+    a:hover{
+        color: green;
+        background-color:white;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .new{
+       background-image: url(home.jpg);
+        border: 1px solid black;
+        border-radius: 10px;
+        background-position: center;
+        background-size: cover;
+    }
+
+      
